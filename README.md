@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/vishwapinnawala" target="blank"><img src="https://img.shields.io/twitter/follow/vishwapinnawala?logo=twitter&style=for-the-badge" alt="vishwapinnawala" /></a> </p>
 
-- 🌱 I’m currently learning **@NSBM**
+- 🌱 I’m a fulltime **Freelancer**
 
 - 💬 Ask me about **Laravel, .net**
 
