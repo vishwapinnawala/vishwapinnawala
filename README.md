@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **@NSBM**
 
-- 💬 Ask me about **Laravel,C**
+- 💬 Ask me about **Laravel, .net**
 
 - 📫 How to reach me **vishwaspinnawala@gmail.com**
 
